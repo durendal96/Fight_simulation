@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=MinGW-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/MinGW-Windows
-CND_ARTIFACT_NAME_Debug=program_zaliczeniowy
-CND_ARTIFACT_PATH_Debug=dist/Debug/MinGW-Windows/program_zaliczeniowy
+CND_ARTIFACT_NAME_Debug=projekt
+CND_ARTIFACT_PATH_Debug=dist/Debug/MinGW-Windows/projekt
 CND_PACKAGE_DIR_Debug=dist/Debug/MinGW-Windows/package
-CND_PACKAGE_NAME_Debug=programzaliczeniowy.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/MinGW-Windows/package/programzaliczeniowy.tar
+CND_PACKAGE_NAME_Debug=projekt.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/MinGW-Windows/package/projekt.tar
 # Release configuration
 CND_PLATFORM_Release=MinGW-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/MinGW-Windows
-CND_ARTIFACT_NAME_Release=program_zaliczeniowy
-CND_ARTIFACT_PATH_Release=dist/Release/MinGW-Windows/program_zaliczeniowy
+CND_ARTIFACT_NAME_Release=projekt
+CND_ARTIFACT_PATH_Release=dist/Release/MinGW-Windows/projekt
 CND_PACKAGE_DIR_Release=dist/Release/MinGW-Windows/package
-CND_PACKAGE_NAME_Release=programzaliczeniowy.tar
-CND_PACKAGE_PATH_Release=dist/Release/MinGW-Windows/package/programzaliczeniowy.tar
+CND_PACKAGE_NAME_Release=projekt.tar
+CND_PACKAGE_PATH_Release=dist/Release/MinGW-Windows/package/projekt.tar
 #
 # include compiler specific variables
 #
